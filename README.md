@@ -6,5 +6,5 @@ I also have a degree as system developer.
 
 My goal is to become an awesome fullstack developer! 😄
 
-[MY PORTFOLIO](https://isabellaes.netlify.app/)
+[MY PORTFOLIO](https://isabellaes.github.io/)
   
